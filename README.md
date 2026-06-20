@@ -124,7 +124,7 @@ const zulfan = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=juleskuy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=juleskuy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
@@ -160,7 +160,7 @@ const zulfan = {
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=juleskuy&icon=0&color=38BDF8)
+![Profile Views](https://komarev.com/ghpvc/?username=juleskuy&color=38BDF8&style=flat-square&label=Profile+Views)
 
 *Built with care · Shipped with confidence*
 
