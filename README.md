@@ -13,18 +13,11 @@ Full Stack Developer with **6+ years** of experience building scalable web appli
 
 Currently running **[JuleProd](https://juleprod.cloud)** — a web app development service focused on transparent pricing, founder-led builds, and shipping production-grade applications for clients worldwide.
 
-```ts
-const zulfan = {
-  code:       ["TypeScript", "JavaScript", "PHP", "Python"],
-  frontend:   ["Next.js", "React", "Tailwind CSS", "Framer Motion"],
-  backend:    ["Laravel", "CodeIgniter", "Node.js", "REST APIs"],
-  database:   ["MySQL", "MariaDB", "SQLite", "Firebase"],
-  devops:     ["GitHub Actions", "Vercel", "Heroku", "Netlify", "Apache"],
-  design:     ["Figma", "Canva", "Adobe Lightroom", "Adobe Premiere Pro"],
-  languages:  ["English", "Bahasa Indonesia"],
-  focus:      "Shipping production-grade web apps that scale",
-};
-```
+- 🌍 Based in Indonesia, working with clients worldwide
+- 🎯 Currently focused on building **Rensa ID** — CMS & Webservice
+- 💬 I speak: English, Bahasa Indonesia
+- 📚 Always learning new frameworks and patterns
+- ⚡ Fun fact: I love turning complex problems into simple solutions
 
 ---
 
@@ -41,12 +34,24 @@ const zulfan = {
 
 ## 🚀 Currently Working On
 
-### [JuleProd](https://juleprod.cloud) — Web App Development Service
+### Rensa ID — CMS & Webservice
 
-> Production-grade web apps by Jule — founder-led, transparent pricing, built to ship.
+> Content management system and web service platform currently in active development.
 
-**Stack:** Next.js 16 · TypeScript · Tailwind CSS 4 · Framer Motion · Vercel  
-**Features:** Bilingual (EN/ID), responsive across all devices, WhatsApp-first lead capture  
+---
+
+### [JuleProd](https://juleprod.cloud) — Web App Development Services
+
+> Your trusted partner for production-grade web applications. Founder-led, transparent pricing, built to ship.
+
+**What I offer:**
+- 🚀 **Custom Web App Development** — Full-stack applications from concept to deployment
+- 🎨 **Modern Tech Stack** — Next.js, Laravel, TypeScript, Tailwind CSS
+- 🌍 **Bilingual Solutions** — EN/ID support for global reach
+- 💼 **Transparent Pricing** — Clear tiers from Starter to Custom enterprise solutions
+- 📱 **Responsive Design** — Mobile-first, works on all devices
+
+**For clients:** [Book a consultation](https://wa.me/6281222179661) · [View pricing](https://juleprod.cloud)  
 **Live:** [juleprod.cloud](https://juleprod.cloud) · [Portfolio](https://juleskuy.cloud)
 
 ---
