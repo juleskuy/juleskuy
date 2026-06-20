@@ -120,16 +120,6 @@ const zulfan = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=juleskuy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
