@@ -144,7 +144,7 @@ Currently running **[JuleProd](https://juleprod.cloud)** — a web app developme
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juleskuy)
 [![X / Twitter](https://img.shields.io/badge/X_@zulfann22-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zulfann22)
 [![Instagram](https://img.shields.io/badge/Instagram-@zulfann22-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zulfann22)
-[![Discord](https://img.shields.io/badge/Discord-juleskuy-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/juleskuy)
+[![Discord](https://img.shields.io/badge/Discord-juleskuy-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/344847173386502149)
 [![Email](https://img.shields.io/badge/Email-zulfann2299@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zulfann2299@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+62_812_2217_9661-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281222179661)
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zulfann22)
