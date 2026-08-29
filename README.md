@@ -85,7 +85,7 @@ export default new ZulfanEngineer();
 ### 🗂️ Featured Projects
 
 * 🚀 **[JuleProd](https://juleprod.cloud)** — Production Web App Engineering & Consultation Agency
-* 📱 **[Rensa ID](https://github.com/juleskuy/prod-jule)** — Enterprise Platform (Company Profile Web App + CMS & Mobile App)
+* 📱 **[Rensa ID](https://github.com/drekscode/rensa-katalog-web)** — Enterprise Platform (Company Profile Web App + CMS & Mobile App)
 * ⚙️ **[deterministic-simulation-testing](https://github.com/juleskuy/deterministic-simulation-testing)** — Fault injection & shrinkable replays skill framework
 
 ---
