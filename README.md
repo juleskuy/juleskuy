@@ -7,15 +7,17 @@
 
 <br/>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280" alt="Programmer Coding GIF">
+<p align="center"><em>Full-Stack Systems Engineer & Founder of <a href="https://juleprod.cloud">JuleProd</a> 🚀</em></p>
 
-<p><em>Full-Stack Systems Engineer & Founder of <a href="https://juleprod.cloud">JuleProd</a> 🚀</em></p>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zulfan-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/juleskuy)
 [![Portfolio](https://img.shields.io/badge/Portfolio-juleskuy.cloud-000000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://juleskuy.cloud)
 [![Agency](https://img.shields.io/badge/Agency-JuleProd-38BDF8?style=flat-square&logo=rocket&logoColor=white)](https://juleprod.cloud)
 [![Email](https://img.shields.io/badge/Email-zulfann2299@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zulfann2299@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+62_812_2217_9661-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6281222179661)
+
+</div>
 
 ---
 
