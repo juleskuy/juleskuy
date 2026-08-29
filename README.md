@@ -54,6 +54,7 @@ export class ZulfanEngineer implements SeniorEngineer, AgencyFounder {
   public readonly activeProjects = {
     rensaId: {
       name: "Rensa ID",
+      url: "https://rensa.id",
       scope: ["Company Profile Web App", "CMS Backoffice", "Mobile App Client"],
       status: "Active Production Pipeline",
     },
@@ -85,7 +86,7 @@ export default new ZulfanEngineer();
 ### 🗂️ Featured Projects
 
 * 🚀 **[JuleProd](https://juleprod.cloud)** — Production Web App Engineering & Consultation Agency
-* 📱 **[Rensa ID](https://github.com/drekscode/rensa-katalog-web)** — Enterprise Platform (Company Profile Web App + CMS & Mobile App)
+* 📱 **[Rensa ID](https://rensa.id)** — Enterprise Platform (Company Profile Web App + CMS & Mobile App)
 * ⚙️ **[deterministic-simulation-testing](https://github.com/juleskuy/deterministic-simulation-testing)** — Fault injection & shrinkable replays skill framework
 
 ---
