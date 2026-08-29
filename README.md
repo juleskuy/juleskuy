@@ -28,12 +28,6 @@ Book a slot or send a message to chat about custom web apps, API architecture, o
 
 [👉 Book Consultation / Chat via WhatsApp](https://wa.me/6281222179661) · [🌐 View Live Agency Tiers](https://juleprod.cloud)
 
-👇 Hit in your console or terminal to connect with me:
-
-```bash
-npx juleskuy
-```
-
 ---
 
 ### 🚀 JuleProd — Client Delivery & Offerings
