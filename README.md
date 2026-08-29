@@ -1,118 +1,100 @@
-<div align="center">
+<h2>👋 Hi, I'm Zulfan Nurrahman (@juleskuy)</h2>
 
-```
- ┌───────────────────────────────────────────────────────────────────────────┐
- │ 📁 zulfan-workspace  —  index.ts  —  Visual Studio Code                  │
- └───────────────────────────────────────────────────────────────────────────┘
-```
+<p><em>Full-Stack Systems Engineer & Founder at <a href="https://juleprod.cloud">JuleProd</a> 🚀</em></p>
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zulfan-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/juleskuy)
+[![Website](https://img.shields.io/badge/Portfolio-juleskuy.cloud-000000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://juleskuy.cloud)
+[![JuleProd](https://img.shields.io/badge/Agency-JuleProd-38BDF8?style=flat-square&logo=rocket&logoColor=white)](https://juleprod.cloud)
+[![Email](https://img.shields.io/badge/Email-zulfann2299@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zulfann2299@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+62_812_2217_9661-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6281222179661)
 
 ```typescript
 import { SeniorEngineer, AgencyFounder } from "@juleprod/core";
-import { NextJS, TypeScript, Tailwind, Laravel, Python, PostgreSQL } from "@tech/stack";
 
-interface Capabilities {
-  architecture: "Monolithic" | "Microservices" | "Serverless" | "Edge";
-  uiDesign: "Swiss / Editorial" | "Anti-AI-Slop" | "High Accessibility (A11y)";
-  deployment: "Zero-Downtime CI/CD" | "Automated QA" | "Vercel / Docker";
-}
-
-/**
- * @class ZulfanEngineer
- * @description 6+ Years Experience Shipping Production-Grade Digital Systems.
- */
-export class ZulfanEngine extends SeniorEngineer implements AgencyFounder {
+export class ZulfanEngineer implements SeniorEngineer, AgencyFounder {
   public readonly name = "Zulfan Nurrahman";
-  public readonly handle = "@juleskuy";
-  public readonly title = "Full-Stack Systems Engineer & Founder";
-  public readonly location = "Indonesia 🇮🇩 (Operating Globally 🌍)";
-  public readonly agency = "JuleProd (https://juleprod.cloud)";
-
-  public currentFocus = {
-    agency: {
-      name: "JuleProd",
-      role: "Founder & Lead Engineer",
-      service: "Founder-Led Web App Engineering & High-Performance Client Delivery",
-      url: "https://juleprod.cloud",
-    },
-    product: {
-      name: "Rensa ID",
-      scope: ["Company Profile Web App", "CMS Backoffice", "Mobile App Client"],
-      status: "Active Production Pipeline",
-    },
+  public readonly role = "Full-Stack Systems Engineer & Founder";
+  public readonly location = "Indonesia 🇮🇩";
+  public readonly languages = ["en_US", "id_ID"];
+  
+  public agency = {
+    name: "JuleProd",
+    url: "https://juleprod.cloud",
+    focus: "Founder-Led Web App Engineering & High-Performance Client Delivery",
+    pricing: "Transparent Tiers"
   };
 
-  /**
-   * Primary Engineering & Technical Matrix
-   */
-  public getCapabilities(): Capabilities {
-    return {
-      architecture: "Edge",
-      uiDesign: "Swiss / Editorial",
-      deployment: "Zero-Downtime CI/CD",
-    };
-  }
+  public activeProjects = {
+    rensaId: {
+      name: "Rensa ID",
+      scope: ["Company Profile Web App", "CMS Backoffice", "Mobile App"],
+      status: "Active Production Pipeline"
+    },
+    juleProd: {
+      name: "JuleProd Agency",
+      scope: ["Custom Web Apps", "API Architecture", "Bilingual Solutions"],
+      status: "Operational"
+    }
+  };
 
-  public getTechStack() {
-    return {
-      frontend: [NextJS, TypeScript, "React", Tailwind, "Motion", "shadcn/ui"],
-      backend: [Laravel, "PHP 8+", Python, "FastAPI", "Node.js", "Express"],
-      database: [PostgreSQL, "MySQL", "SQLite", "Redis"],
-      infrastructure: ["Vercel", "GitHub Actions", "Docker", "Linux (Ubuntu/Debian)"],
-      design: ["Figma", "UI/UX Strategy", "System Architecture", "Performance Auditing"],
-    };
-  }
+  public techStack = {
+    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Motion", "shadcn/ui"],
+    backend: ["Laravel", "PHP 8+", "Python", "FastAPI", "Node.js", "Express"],
+    database: ["PostgreSQL", "MySQL", "SQLite", "Redis"],
+    devOps: ["Vercel", "GitHub Actions", "Docker", "Linux"],
+    design: ["Swiss / Editorial UI", "Design Systems", "Figma"]
+  };
 
-  /**
-   * Executes client contract delivery pipeline
-   */
-  public async shipProductionApp(clientGoal: string): Promise<string> {
-    const spec = await this.analyzeRequirements(clientGoal);
-    const code = await this.buildWithPrecision(spec, this.getTechStack());
-    const verified = await this.runAutomatedQA(code, { a11y: true, coverage: 80 });
-    return this.deployToProduction(verified);
-  }
-
-  public getContactDetails() {
-    return {
-      portfolio: "https://juleskuy.cloud",
-      agency: "https://juleprod.cloud",
-      email: "zulfann2299@gmail.com",
-      whatsapp: "+62 812 2217 9661",
-      socials: {
-        linkedin: "https://linkedin.com/in/juleskuy",
-        twitter: "https://x.com/zulfann22",
-        discord: "juleskuy",
-      },
-    };
+  public sayHi(): void {
+    console.log("Welcome to my profile. Let's build production-grade applications.");
   }
 }
 
-export default new ZulfanEngine();
+const me = new ZulfanEngineer();
+me.sayHi();
 ```
+
+---
+
+### 💻 Connect via Terminal
+
+Run this in your terminal to connect:
+
+```bash
+npx juleskuy
+```
+
+---
+
+### 🔧 Technologies & Tools
+
+**Core Stack:**  
+![Next.js](https://img.shields.io/badge/Frontend-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Laravel](https://img.shields.io/badge/Backend-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/Language-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Hosting-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+### 📊 GitHub Activity & Impact
 
 <div align="center">
 
-```
- ┌───────────────────────────────────────────────────────────────────────────┐
- │ 💬 Terminal  —  zulfan@juleprod:~ $ npx juleskuy --stats                  │
- └───────────────────────────────────────────────────────────────────────────┘
-```
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juleskuy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/juleskuy)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juleskuy&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true)](https://github.com/juleskuy)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juleskuy&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/juleskuy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juleskuy&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true)](https://github.com/juleskuy)
 
 </div>
 
 ---
 
 <div align="center">
-
-```
-> Status: 200 OK — Ready for contract engineering & technical consultation.
-```
-
-[🌐 Portfolio](https://juleskuy.cloud) · [🚀 JuleProd Agency](https://juleprod.cloud) · [💬 Book Consultation](https://wa.me/6281222179661)
-
+  <sub>Built with precision · Shipped with proof</sub>
 </div>
