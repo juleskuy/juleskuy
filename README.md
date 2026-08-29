@@ -7,7 +7,7 @@
 
 <br/>
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" alt="Developer GIF">
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280" alt="Programmer Coding GIF">
 
 <p><em>Full-Stack Systems Engineer & Founder of <a href="https://juleprod.cloud">JuleProd</a> 🚀</em></p>
 
