@@ -102,11 +102,38 @@ me.sayHi();
 
 ### 🔧 Technologies & Tools
 
-<div align="center">
+**Frontend & Styling:**
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,laravel,php,python,nodejs,postgres,mysql,docker,vercel)](https://skillicons.dev)
+![Next.js](https://img.shields.io/badge/Frontend-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=6aa6f8)
+![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=6aa6f8)
 
-</div>
+**Backend & APIs:**
+
+![Laravel](https://img.shields.io/badge/Backend-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=6aa6f8)
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
+![REST APIs](https://img.shields.io/badge/API-REST-informational?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
+
+**Databases & Infrastructure:**
+
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+![SQLite](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=6aa6f8)
+![Redis](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![Vercel](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=6aa6f8)
+
+---
+
+### 🗂️ Highlight Projects
+
+- **[JuleProd](https://juleprod.cloud)** — Production Web App Engineering & Consultation Agency
+- **[Rensa ID](https://github.com/juleskuy/prod-jule)** — Company Profile Web App + CMS & Mobile App
+- **[deterministic-simulation-testing](https://github.com/juleskuy/deterministic-simulation-testing)** — Fault injection & shrinkable replays skill framework
 
 ---
 
