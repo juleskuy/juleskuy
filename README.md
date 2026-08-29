@@ -107,9 +107,9 @@ export default new ZulfanEngineer();
 | **Total Requests** | `73,988` | **gpt-5.6-sol / max:** 12,945 reqs ($6,629.10) |
 | **Input Tokens** | `4,187,796,958` (4.18B) | **gemini-3.5-flash-extra-low:** 47,642 reqs ($674.46) |
 | **Output Tokens** | `45,259,557` (45.26M) | **gemini-3-flash-agent / pro:** 7,983 reqs ($1,340.22) |
-| **Cached Tokens** | `10,082,324` (10.08M) | **claude-sonnet / opus-4-6:** 1,320 reqs ($559.05) |
+| **Cached Tokens** | `10,082,324` (10.08M) | **claude-sonnet / opus (4.7-5):** 1,596 reqs ($756.25) |
 | **Est. Compute Value** | `~$10,183.63 USD` | **gpt-5.6-terra:** 1,665 reqs ($480.58) |
-| **Nodes** | 7 Active | Antigravity · Kiro AI · Ollama Cloud · Cursor IDE · Cloudflare · OpenAI Codex · Gemini |
+| **Nodes** | 8 Active | Antigravity · Kiro AI · Ollama Cloud · Cursor IDE · Cloudflare · OpenAI Codex · Gemini · Claude Code |
 
 <details>
 <summary><b>📈 View Commit & Schedule Metrics</b></summary>
