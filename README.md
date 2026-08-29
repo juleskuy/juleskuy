@@ -1,28 +1,26 @@
 <div align="center">
 
-<!-- Typing Header Asset -->
+<!-- Typing Header SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=750&lines=👋+Halo!+I'm+Zulfan+Nurrahman;Full-Stack+Systems+Engineer;Founder+%40+JuleProd;Building+Production-Grade+Web+Apps" alt="Typing Header" />
 
-</div>
+<p align="center">
+  <b>Full-Stack Systems Engineer & Founder of <a href="https://juleprod.cloud">JuleProd</a> 🚀</b><br/>
+  <sub>Production-grade web apps, MVPs, and dashboards. Transparent pricing, founder-led, ready to ship.</sub>
+</p>
 
-<br/>
-
-<p align="center"><em>Full-Stack Systems Engineer & Founder of <a href="https://juleprod.cloud">JuleProd</a> 🚀</em></p>
-<p align="center"><sub>Production-grade web apps, MVPs, and dashboards. Transparent pricing, founder-led, ready to ship.</sub></p>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zulfan-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/juleskuy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-juleskuy.cloud-000000?style=flat-square&logo=Google-Chrome&logoColor=white)](https://juleskuy.cloud)
-[![Agency](https://img.shields.io/badge/Agency-JuleProd-38BDF8?style=flat-square&logo=rocket&logoColor=white)](https://juleprod.cloud)
-[![Email](https://img.shields.io/badge/Email-zulfann2299@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zulfann2299@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+62_812_2217_9661-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6281222179661)
+<p align="center">
+  <a href="https://linkedin.com/in/juleskuy"><img src="https://img.shields.io/badge/LinkedIn-Zulfan-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://juleskuy.cloud"><img src="https://img.shields.io/badge/Portfolio-juleskuy.cloud-000000?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://juleprod.cloud"><img src="https://img.shields.io/badge/Agency-JuleProd-38BDF8?style=flat-square&logo=rocket&logoColor=white" alt="Agency"/></a>
+  <a href="mailto:zulfann2299@gmail.com"><img src="https://img.shields.io/badge/Email-zulfann2299@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/6281222179661"><img src="https://img.shields.io/badge/WhatsApp-+62_812_2217_9661-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
 
 </div>
 
 ---
 
-### 📫 Like to meet me or discuss a project?
+## ── 📬 CONSULTATION & CONNECT ──────────────────────────────────────────────────
 
 Book a slot or send a message to chat about custom web apps, API architecture, or founder-led engineering:
 
@@ -30,7 +28,7 @@ Book a slot or send a message to chat about custom web apps, API architecture, o
 
 ---
 
-### 🚀 JuleProd — Client Delivery & Offerings
+## ── 🚀 JULEPROD — CLIENT DELIVERY & OFFERINGS ─────────────────────────────────
 
 > **Founder-led Web App Development Agency · Based in Bandung, Indonesia**
 
@@ -41,7 +39,7 @@ Book a slot or send a message to chat about custom web apps, API architecture, o
 
 ---
 
-### 💻 Developer Profile Matrix
+## ── 💻 DEVELOPER PROFILE MATRIX ───────────────────────────────────────────────
 
 ```typescript
 import { SeniorEngineer, AgencyFounder } from "@juleprod/core";
@@ -113,7 +111,7 @@ me.sayHi();
 
 ---
 
-### 🔧 Technologies & Tools
+## ── 🔧 TECHNOLOGIES & TOOLS ────────────────────────────────────────────────────
 
 **Frontend & Styling:**
 
@@ -142,7 +140,7 @@ me.sayHi();
 
 ---
 
-### 🗂️ Highlight Projects
+## ── 🗂️ HIGHLIGHT PROJECTS ─────────────────────────────────────────────────────
 
 - **[JuleProd](https://juleprod.cloud)** — Production Web App Engineering & Consultation Agency
 - **[Rensa ID](https://github.com/juleskuy/prod-jule)** — Company Profile Web App + CMS & Mobile App
@@ -150,7 +148,7 @@ me.sayHi();
 
 ---
 
-### 📊 GitHub Activity & Real 9Router Metrics
+## ── 📊 GITHUB ACTIVITY & REAL 9ROUTER METRICS ─────────────────────────────────
 
 <div align="center">
 
@@ -161,7 +159,7 @@ me.sayHi();
 
 <br/>
 
-#### 🐱 My GitHub Overview
+### 🐱 My GitHub Overview
 
 > 📦 **Storage Used:** 412.8 kB across active projects  
 > 🏆 **Contributions:** 1,240+ in the current cycle  
