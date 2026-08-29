@@ -1,6 +1,13 @@
-<h2><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"> Halo (Hi) 👋, I'm Zulfan Nurrahman!</h2>
+<div align="center">
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="Coding GIF">
+<!-- Typing Header Asset -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=750&lines=👋+Halo!+I'm+Zulfan+Nurrahman;Full-Stack+Systems+Engineer;Founder+%40+JuleProd;Building+Production-Grade+Web+Apps" alt="Typing Header" />
+
+</div>
+
+<br/>
+
+<img align="right" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/main/assets/api.gif" width="260" alt="Developer GIF">
 
 <p><em>Full-Stack Systems Engineer & Founder of <a href="https://juleprod.cloud">JuleProd</a> 🚀</em></p>
 
@@ -26,7 +33,7 @@ npx juleskuy
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> A little more about me...
+### 💻 Developer Profile Matrix
 
 ```typescript
 import { SeniorEngineer, AgencyFounder } from "@juleprod/core";
@@ -93,25 +100,15 @@ me.sayHi();
 
 ### 🔧 Technologies & Tools
 
-**Cloud & Frontend:**  
-![Next.js](https://img.shields.io/badge/Frontend-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
-![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=61DAFB&color=20232A)
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=38B2AC)
-![Vercel](https://img.shields.io/badge/Hosting-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000000)
+<div align="center">
 
-**Backend & Storage:**  
-![Laravel](https://img.shields.io/badge/Backend-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=FF2D20)
-![PHP](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)
-![Python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
-![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
-![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,laravel,php,python,nodejs,postgres,mysql,docker,vercel)](https://skillicons.dev)
+
+</div>
 
 ---
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Contribution & Productivity Metrics
+### 📊 Contribution & Productivity Metrics
 
 <div align="center">
 
