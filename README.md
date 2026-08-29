@@ -8,6 +8,7 @@
 <br/>
 
 <p align="center"><em>Full-Stack Systems Engineer & Founder of <a href="https://juleprod.cloud">JuleProd</a> 🚀</em></p>
+<p align="center"><sub>Production-grade web apps, MVPs, and dashboards. Transparent pricing, founder-led, ready to ship.</sub></p>
 
 <div align="center">
 
@@ -35,6 +36,17 @@ npx juleskuy
 
 ---
 
+### 🚀 JuleProd — Client Delivery & Offerings
+
+> **Founder-led Web App Development Agency · Based in Bandung, Indonesia**
+
+- ⚡ **Full-Stack MVPs & Web Apps** — Production-grade Next.js & Laravel systems built for scale.
+- 💼 **Transparent Flat Tiers** — Starter, Growth, and Enterprise custom builds.
+- 🌍 **Bilingual Native (EN/ID)** — Built for global clients with multi-language requirements.
+- 🛡️ **Zero-Slop Standards** — Strict A11y compliance, high performance (Core Web Vitals), and clean architecture.
+
+---
+
 ### 💻 Developer Profile Matrix
 
 ```typescript
@@ -44,7 +56,7 @@ export class ZulfanEngineer implements SeniorEngineer, AgencyFounder {
   public readonly name = "Zulfan Nurrahman";
   public readonly handle = "@juleskuy";
   public readonly pronouns = ["he", "him"];
-  public readonly location = "Indonesia 🇮🇩";
+  public readonly location = "Bandung, Indonesia 🇮🇩";
   public readonly languages = ["en_US", "id_ID"];
   public readonly experienceYears = 6;
 
@@ -52,10 +64,17 @@ export class ZulfanEngineer implements SeniorEngineer, AgencyFounder {
     name: "JuleProd",
     role: "Founder & Lead Engineer",
     url: "https://juleprod.cloud",
+    tagline: "Production-grade web apps, MVPs, and dashboards",
     services: [
       "Custom Web Application Development",
       "API Architecture & System Integration",
       "Bilingual Solutions (EN/ID)",
+      "High-Performance Dashboards & MVPs",
+    ],
+    guarantees: [
+      "Transparent Pricing",
+      "Founder-Led Builds",
+      "Replies within 24 Hours",
     ],
   };
 
