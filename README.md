@@ -156,7 +156,7 @@ me.sayHi();
 
 ---
 
-### 📊 GitHub Activity & Productivity Metrics
+### 📊 GitHub Activity & Real 9Router Metrics
 
 <div align="center">
 
@@ -174,6 +174,26 @@ me.sayHi();
 > 🚫 **Status:** Founder @ JuleProd (Available for Contract Builds)  
 > 📜 **Public Repositories:** 28  
 > 🔑 **Private Repositories:** 35  
+
+```text
+🤖 AI Agent & LLM Execution Stats (via 9Router Proxy v0.5.35)
+=====================================================================================
+📊 Total Requests Routed:     73,988 requests
+📥 Total Input Tokens:         4,187,796,958 tokens (4.18B)
+⚡ Cached Tokens:              10,082,324 tokens (10.08M)
+📤 Output Tokens:             45,259,557 tokens (45.26M)
+💰 Est. API Computing Value:   ~$10,183.63 USD
+
+🧠 Model Usage Breakdown:
+gpt-5.6-sol / max               12,945 requests       ████████████████░░░░░░░░░   $6,629.10
+gemini-3.5-flash-extra-low      47,642 requests       █████████████████████████     $674.46
+gemini-3-flash-agent / pro       7,983 requests       ████████░░░░░░░░░░░░░░░░░   $1,340.22
+claude-sonnet-4-6 / opus-4-6     1,320 requests       ████░░░░░░░░░░░░░░░░░░░░░     $559.05
+gpt-5.6-terra                    1,665 requests       ███░░░░░░░░░░░░░░░░░░░░░░     $480.58
+
+🌐 Infrastructure Nodes:
+Antigravity · Kiro AI · Ollama Cloud · Cursor IDE · Cloudflare · OpenAI Codex · Gemini
+```
 
 ```text
 🐣 Commit Schedule Breakdown (I'm an Early 🐤)
@@ -194,53 +214,6 @@ Thursday     2,656 commits      █████░░░░░░░░░░░
 Friday       2,027 commits      ████░░░░░░░░░░░░░░░░░░░░░░░░   09.00 %
 Saturday     2,760 commits      █████░░░░░░░░░░░░░░░░░░░░░░░   12.25 %
 Sunday       4,017 commits      ████████░░░░░░░░░░░░░░░░░░░░   17.84 %
-```
-
-```text
-📊 Weekly Time Spent & Environment Breakdown
-=====================================================================================
-🕑 Time Zone: Asia/Jakarta (UTC+07:00)
-
-💬 Programming Languages:
-TypeScript               18 hrs 40 mins      ██████████████░░░░░░░░░░░   46.50 %
-PHP (Laravel)            12 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   30.50 %
-Python                   5 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   13.20 %
-JSON & Config            2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-Other (Markdown/CSS)     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-
-🔥 Editors:
-VS Code                  26 hrs 10 mins      ███████████████████░░░░░░   76.50 %
-Hermes CLI               8 hrs 05 mins       ██████░░░░░░░░░░░░░░░░░░░   23.50 %
-
-💻 Operating System:
-Windows 11 (MSYS/Bash)   34 hrs 15 mins      █████████████████████████  100.00 %
-```
-
-```text
-🤖 AI-Assisted Engineering Activity
-=====================================================================================
-⏱ Total AI-Assisted Development Time: 32 hrs 15 mins
-
-✍️ 12,450 lines written with AI assistance, 840 lines manual refactor (93.6% AI-assisted)
-🔤 Input Tokens: 24,510,400 | Output Tokens: 6,820,100
-
-🧠 AI Model Architecture Breakdown:
-gemini-3.6-flash-high   8,240 lines          ████████████████░░░░░░░░░   66.18 %
-grok-4.5-high           4,210 lines          ████████░░░░░░░░░░░░░░░░░   33.82 %
-
-🔎 Engineering Insights:
-🤖 AI-Driven Architecture — High reliance on subagent verification & clean specs
-📚 Precise Prompter — Structured contracts, DESIGN.md specs, & TDD loops
-🎯 Strict Quality Gates — 100% test & type-check enforcement before push
-```
-
-```text
-📦 Primary Repository Languages
-=====================================================================================
-TypeScript / Next.js    22 repos             ████████████░░░░░░░░░░░░░   44.00 %
-PHP / Laravel           15 repos             ████████░░░░░░░░░░░░░░░░░   30.00 %
-Python / FastAPI        8 repos              ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-HTML / CSS / Other      5 repos              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
 ```
 
 ---
