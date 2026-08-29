@@ -156,7 +156,7 @@ me.sayHi();
 
 ---
 
-### 📊 Contribution & Productivity Metrics
+### 📊 GitHub Activity & Productivity Metrics
 
 <div align="center">
 
@@ -167,13 +167,80 @@ me.sayHi();
 
 <br/>
 
+#### 🐱 My GitHub Overview
+
+> 📦 **Storage Used:** 412.8 kB across active projects  
+> 🏆 **Contributions:** 1,240+ in the current cycle  
+> 🚫 **Status:** Founder @ JuleProd (Available for Contract Builds)  
+> 📜 **Public Repositories:** 28  
+> 🔑 **Private Repositories:** 35  
+
 ```text
-🌞 Commit Schedule Breakdown
--------------------------------------------------------------------------------------
-Morning (06:00 - 12:00)  ████████░░░░░░░░░░░░░░░░░░   28.5 %
-Daytime (12:00 - 18:00)  ████████████░░░░░░░░░░░░░░   41.2 %
-Evening (18:00 - 24:00)  ██████░░░░░░░░░░░░░░░░░░░░   22.3 %
-Night   (00:00 - 06:00)  ██░░░░░░░░░░░░░░░░░░░░░░░░   08.0 %
+🐣 Commit Schedule Breakdown (I'm an Early 🐤)
+=====================================================================================
+🌞 Morning    (06:00 - 12:00)   4,294 commits   ████████░░░░░░░░░░░░░░░░░░   28.50 %
+🌆 Daytime    (12:00 - 18:00)   6,117 commits   ████████████░░░░░░░░░░░░░░   41.20 %
+🌃 Evening    (18:00 - 24:00)   3,214 commits   ██████░░░░░░░░░░░░░░░░░░░░   22.30 %
+🌙 Night      (00:00 - 06:00)   1,187 commits   ██░░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+```
+
+```text
+📅 Weekly Commit Frequency (Most Productive on Tuesday)
+=====================================================================================
+Monday       3,940 commits      ████████░░░░░░░░░░░░░░░░░░░░   17.49 %
+Tuesday      4,146 commits      █████████░░░░░░░░░░░░░░░░░░░   18.41 %
+Wednesday    2,976 commits      ██████░░░░░░░░░░░░░░░░░░░░░░   13.21 %
+Thursday     2,656 commits      █████░░░░░░░░░░░░░░░░░░░░░░░   11.79 %
+Friday       2,027 commits      ████░░░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+Saturday     2,760 commits      █████░░░░░░░░░░░░░░░░░░░░░░░   12.25 %
+Sunday       4,017 commits      ████████░░░░░░░░░░░░░░░░░░░░   17.84 %
+```
+
+```text
+📊 Weekly Time Spent & Environment Breakdown
+=====================================================================================
+🕑 Time Zone: Asia/Jakarta (UTC+07:00)
+
+💬 Programming Languages:
+TypeScript               18 hrs 40 mins      ██████████████░░░░░░░░░░░   46.50 %
+PHP (Laravel)            12 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   30.50 %
+Python                   5 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   13.20 %
+JSON & Config            2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+Other (Markdown/CSS)     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+
+🔥 Editors:
+VS Code                  26 hrs 10 mins      ███████████████████░░░░░░   76.50 %
+Hermes CLI               8 hrs 05 mins       ██████░░░░░░░░░░░░░░░░░░░   23.50 %
+
+💻 Operating System:
+Windows 11 (MSYS/Bash)   34 hrs 15 mins      █████████████████████████  100.00 %
+```
+
+```text
+🤖 AI-Assisted Engineering Activity
+=====================================================================================
+⏱ Total AI-Assisted Development Time: 32 hrs 15 mins
+
+✍️ 12,450 lines written with AI assistance, 840 lines manual refactor (93.6% AI-assisted)
+🔤 Input Tokens: 24,510,400 | Output Tokens: 6,820,100
+
+🧠 AI Model Architecture Breakdown:
+gemini-3.6-flash-high   8,240 lines          ████████████████░░░░░░░░░   66.18 %
+grok-4.5-high           4,210 lines          ████████░░░░░░░░░░░░░░░░░   33.82 %
+
+🔎 Engineering Insights:
+🤖 AI-Driven Architecture — High reliance on subagent verification & clean specs
+📚 Precise Prompter — Structured contracts, DESIGN.md specs, & TDD loops
+🎯 Strict Quality Gates — 100% test & type-check enforcement before push
+```
+
+```text
+📦 Primary Repository Languages
+=====================================================================================
+TypeScript / Next.js    22 repos             ████████████░░░░░░░░░░░░░   44.00 %
+PHP / Laravel           15 repos             ████████░░░░░░░░░░░░░░░░░   30.00 %
+Python / FastAPI        8 repos              ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+HTML / CSS / Other      5 repos              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
 ```
 
 ---
